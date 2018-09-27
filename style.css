@@ -1,0 +1,50 @@
+.jumbotron{ 
+    
+    background-image:url("FB_IMG.jpg");
+    background-repeat: round;
+    background-size:1000px;
+    color: white;
+    height: 500px;
+    bottom: 0rem;
+    
+    
+}
+
+
+
+
+img{
+    
+    transform: rotate(90deg)
+}
+
+    
+
+    
+
+
+#profile{
+    justify-content: center;
+    background-color: darkgrey;
+    top:20px;
+    bottom: 20px;
+
+    
+    
+}
+.col-sm-12{
+    border-style:inherit;
+    color: white;
+    
+    
+}
+
+#Movies{
+    background-color:blue;
+}
+#TV{
+    background-color: red;
+}
+#Music{
+    background-color: green;
+}
